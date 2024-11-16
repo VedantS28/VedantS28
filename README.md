@@ -23,6 +23,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 yaml
+```
 name: Vinay Sagar
 located_in: Nagpur, Maharastra
 education:
@@ -48,7 +49,7 @@ currently_learning: ["Docker, Kubernetes, Deep learning, Natural language proces
 hobbies: ["Gaming", "Cinema", "Anime", "Comedy"]
 
   
----  
+```
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
