@@ -33,12 +33,9 @@ fields_of_interests:
   [
     "Mobile App Development",
     "Backend Development",
-    "Machine Learning",
     "DevOps",
-    "NLP",
     "Open Source",
     "AWS",
-    "Deep Learning",
     "CP/DSA"
   ]
 
@@ -46,12 +43,8 @@ technical_background:
   [
     "Flutter Developer Intern at MegSoft",
     "Full-Stack App Development",
-    "UI/UX Design"
   ]
   
-currently_learning: ["Docker", "Kubernetes", "Deep Learning", "NLP", "Compiler Design"]
-2024_goals: ["Create 10+ Projects", "Master Flutter Development", "Learn 5-10 New Technologies"]
-hobbies: ["Gaming", "Cinema", "Anime", "Comedy"]
 ```
 
 <h2>🚀 Technologies & Tools</h2>
@@ -80,7 +73,6 @@ hobbies: ["Gaming", "Cinema", "Anime", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
 </p>
 
 ### Development Tools & Others
@@ -90,7 +82,6 @@ hobbies: ["Gaming", "Cinema", "Anime", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
 <h2>🎯 Featured Projects</h2>
