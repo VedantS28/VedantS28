@@ -24,7 +24,7 @@
 
 yaml
 ```
-name: Vinay Sagar
+name: Vedant Shrivastava
 located_in: Nagpur, Maharastra
 education:
   [
